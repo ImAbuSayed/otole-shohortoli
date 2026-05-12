@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Otole Shohortoli
+
+This log tracks the cryptographic history and versioning for the song **Otole Shohortoli** (otole-shohortoli).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T06:16:48.586196 | `v1` | `34e64997e73a6186376d22f00e89cb6b6256bb72d636eec1568b746ef233b26c` | `7d5a48ba7925c7c5820f6eb88a7ef0b2a14ae78c13a4d4c5f217736a4c1333af` | `2026-05-12_otole-shohortoli-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
