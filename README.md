@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/otole-shohortoli/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Otole Shohortoli](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/otole-shohortoli/) |
+| **Get License** | [Request Licensing for Otole Shohortoli](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/otole-shohortoli/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> এই অতল শহরতলীতে খুঁজি তোমার নিশানা,
+> বিষণ্ণ রাতের বুকে আমার প্রেমের ঠিকানা।
+> নিঃশ্বাসে আজ মিশে আছে তোমারই সুবাস,
+> অবাধ্য এই হৃদয় জুড়ে তোমারই আভাস।
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
